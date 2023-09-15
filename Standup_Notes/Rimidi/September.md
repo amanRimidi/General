@@ -1,5 +1,10 @@
 # September Standup Notes
 
+## Fri, Sept 15 2023:
+<ul>
+	<li></li>
+</ul>
+
 ## Thu, Sept 14 2023:
 <ul>
 	<li>Completed Rimidify Allergies Standardize view</li>
