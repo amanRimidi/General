@@ -2,15 +2,15 @@
 
 ## Mon, Sept 18 2023:
 <ul>
-	<li>Completed Allergy Integration</ul>
+	<li>Completed Allergy Integration <a href="https://rimidi.atlassian.net/browse/RIMIDI2023-3612">RIMIDI2023-3612</a></li>
 	<li>Improved reusability of Demographics Rimidify interfacing code and fixed the root cause of ascii-armor</li>
-	<li>Raised PR for DBS change [https://rimidi.atlassian.net/browse/RIMIDI2023-3634](RIMIDI2023-3634)
+	<li>Raised PR for DBS change <a href="https://rimidi.atlassian.net/browse/RIMIDI2023-3634">RIMIDI2023-3634</a></li>
 </ul>
 
 
 ## Fri, Sept 15 2023:
 <ul>
-	<li>Worked on Allergies</li>
+	<li>Worked on Allergies <a href="https://rimidi.atlassian.net/browse/RIMIDI2023-3612">RIMIDI2023-3612</a></li>
 </ul>
 
 ## Thu, Sept 14 2023:
