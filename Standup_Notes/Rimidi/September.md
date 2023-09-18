@@ -1,8 +1,16 @@
 # September Standup Notes
 
+## Mon, Sept 18 2023:
+<ul>
+	<li>Completed Allergy Integration</ul>
+	<li>Improved reusability of Demographics Rimidify interfacing code and fixed the root cause of ascii-armor</li>
+	<li>Raised PR for DBS change [https://rimidi.atlassian.net/browse/RIMIDI2023-3634](RIMIDI2023-3634)
+</ul>
+
+
 ## Fri, Sept 15 2023:
 <ul>
-	<li></li>
+	<li>Worked on Allergies</li>
 </ul>
 
 ## Thu, Sept 14 2023:
