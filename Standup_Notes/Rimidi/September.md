@@ -1,5 +1,12 @@
 # September Standup Notes
 
+## Tue, Sept 19 2023:
+<ul>
+	<li>Discussed Lab Mapping possible additions with David with regards to current painpoints in integration process</li>
+	<li>Explored possible improvements for Implementations/Integrations team during unification of Lab Mappings</li>
+	<li>Explored Code Lookups through Snomed and Loinc APIS to possibly add support for labs we do not currently support (Or Reporting of labs we currently do not support with a quick reference to look for to decide whether or not to use the code</li>
+</ul>
+
 ## Mon, Sept 18 2023:
 <ul>
 	<li>Completed Allergy Integration <a href="https://rimidi.atlassian.net/browse/RIMIDI2023-3612">RIMIDI2023-3612</a></li>
