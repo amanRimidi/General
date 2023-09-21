@@ -1,5 +1,11 @@
 # September Standup Notes
 
+## Wed, Sept 20 2023:
+<ul>
+	<li>Debugged a new MMC refresh token endpoint given bt Tejas. Turned out to be an incorrect one</li>
+	<li>Setup 4011 environmnent for Chris with Chlow (We ran into a few issues so had to do it multiple times)</li>
+</ul>
+
 ## Tue, Sept 19 2023:
 <ul>
 	<li>Discussed Lab Mapping possible additions with David with regards to current painpoints in integration process</li>
