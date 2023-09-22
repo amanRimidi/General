@@ -1,5 +1,11 @@
 # September Standup Notes
 
+## Thu, Sept 21 2023:
+<ul>
+	<li>Reworked <a href="https://rimidi.atlassian.net/browse/RIMIDI2023-3663">RIMIDI2023-3663</a> yesterday and got it merged and ready to test</li>
+	<li>Will try closing out 3614 by EOD and publishing my findings and proposal</li>
+</ul>
+
 ## Wed, Sept 20 2023:
 <ul>
 	<li>Debugged a new MMC refresh token endpoint given bt Tejas. Turned out to be an incorrect one</li>
