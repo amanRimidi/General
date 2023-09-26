@@ -1,5 +1,31 @@
 # September Standup Notes
 
+
+## Sprint Demo, Tue Sept 26 2023:
+<ul>
+	<li>
+		Fixed an issue with collapsing and expanding of the Details toggle in the Patient header
+		<ul>
+			<li>We were able to tab onto the field but doing so with the mouse was not working</li>
+			<li>Now both of the 2 inputs are working</li>
+		</ul>
+	</li>
+	<li>
+		Came up with a really cool script with David. This helps with our integration effort while closing out instances
+		<ul>
+			<li>It automates the process of generating audit reports for every single patient in our platform</li>
+			<li>Automatically renames the filenames to patient_id.pdf or mrn.pdf, configurable by a parameter</li>
+		</ul>
+	</li>
+	<li>
+		Researched a way to centralize the Lab Mapping/Unit conversions table within Rimidify. Proposals include:
+		<ul>
+			<li>No reverse dependency to provider while processing observations/lab data</li>
+			<li>Benefits integration team by reducing effort on having to keep mappings consistant across instances</li>
+		</ul>
+	</li>
+</ul>
+
 ## Thu, Sept 21 2023:
 <ul>
 	<li>Reworked <a href="https://rimidi.atlassian.net/browse/RIMIDI2023-3663">RIMIDI2023-3663</a> yesterday and got it merged and ready to test</li>
