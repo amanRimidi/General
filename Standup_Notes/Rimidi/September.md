@@ -1,5 +1,11 @@
 # September Standup Notes
 
+## Tue Sept 26, 2023:
+<ul>
+	<li>Started building out the test suite for Rimidify as part of <a href="https://rimidi.atlassian.net/browse/RIMIDI2023-3732">RIMIDI2023-3732</a></li>
+	<li>Will look into building out the check for github to always run tests before merging PR</li>
+	<li>Setting up loggers within Rimidify which will be used instead of print moving forward</li>
+</ul>
 
 ## Sprint Demo, Tue Sept 26 2023:
 <ul>
