@@ -1,5 +1,13 @@
 # September Standup Notes
 
+## Thu, Sept 28, 2023:
+<ul>
+	<li>Updated Logging Mechanisms for Rimidify to pipe logs to rimidify-logs.log file while others land on the console as well</li>
+	<li>Added Rimidify Collection to the central Postman Workspace</li>
+	<li>Attended the call with MMC and got most of the issues sorted alongside help debug the rest</li>
+	<li>Prepared the branch for testing of the HL7 ticket</li>
+</ul>
+
 ## Tue Sept 26, 2023:
 <ul>
 	<li>Started building out the test suite for Rimidify as part of <a href="https://rimidi.atlassian.net/browse/RIMIDI2023-3732">RIMIDI2023-3732</a></li>
