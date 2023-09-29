@@ -6,6 +6,7 @@
 	<li>Added Rimidify Collection to the central Postman Workspace</li>
 	<li>Attended the call with MMC and got most of the issues sorted alongside help debug the rest</li>
 	<li>Prepared the branch for testing of the HL7 ticket</li>
+	<li>Got the smoking status working by adding support for Snomed codes for MMC</li>
 </ul>
 
 ## Tue Sept 26, 2023:
