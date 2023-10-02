@@ -1,4 +1,4 @@
-# September Standup Notes
+# Standup Notes
 
 ## Mon, Oct 02, 2023:
 <ul>
