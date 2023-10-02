@@ -1,5 +1,18 @@
 # September Standup Notes
 
+## Mon, Oct 02, 2023:
+<ul>
+	<li>Discussed Veradign and ECW potential changes related to Rimidify and concluded that we will not involve Rimidify in this change</li>
+	<li>RIMIDI2023-3779 : Refactored the R4 code flow
+		<ul>
+			<li>Renamed all the R4 functions to say r4 instead of epic_r4</li>
+			<li>Removed checks for EHRs to divert to R4 flow, only FHIR version remains</li>
+			<li>Added Immunizations support for MMC within R4 flow instead of regular</li>
+		</ul>
+	</li>
+	<li>Debugged HL7 ticket again (Were getting errors and blocking on Friday). All things work as expected</li>
+</ul>
+
 ## Thu, Sept 28, 2023:
 <ul>
 	<li>Updated Logging Mechanisms for Rimidify to pipe logs to rimidify-logs.log file while others land on the console as well</li>
